@@ -267,6 +267,12 @@ const SERVICES: Service[] = [
         secondaryColor: '#3a7bd5',
         idealFor: ["tiendas", "clínicas", "empresas", "instituciones", "profesionales independientes", "ópticas", "ferreterías", "boutiques", "negocios locales"],
         features: ["galería visual de productos o servicios", "precios organizados", "descripciones claras", "diseño moderno adaptable a celular", "imagen profesional de marca", "estructura tipo mini página web", "optimizado para compartir en WhatsApp", "mejora la presentación del negocio", "fácil acceso mediante enlace"],
+        examples: [
+          { category: "MUEBLES", label: "Ver Ejemplo", url: "https://catalogo-digital-de-muebles.vercel.app/" },
+          { category: "BOUTIQUE", label: "Ver Ejemplo", url: "#" },
+          { category: "ÓPTICA", label: "Ver Ejemplo", url: "#" },
+          { category: "FERRETERÍA", label: "Ver Ejemplo", url: "#" }
+        ],
         whatsappNumber: "51932350348",
         whatsappMessage: "Hola, deseo información sobre un CATÁLOGO VIRTUAL para mi negocio"
       },
