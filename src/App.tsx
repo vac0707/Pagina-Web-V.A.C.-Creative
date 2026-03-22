@@ -271,7 +271,7 @@ const SERVICES: Service[] = [
           { category: "MUEBLES", label: "Ver Ejemplo", url: "https://catalogo-digital-de-muebles.vercel.app/" },
           { category: "BOUTIQUE", label: "Ver Ejemplo", url: "#" },
           { category: "ÓPTICA", label: "Ver Ejemplo", url: "#" },
-          { category: "FERRETERÍA", label: "Ver Ejemplo", url: "#" }
+          { category: "FERRETERÍA", label: "Ver Ejemplo", url: "https://catalogo-digital-de-ferreteria.vercel.app/" }
         ],
         whatsappNumber: "51932350348",
         whatsappMessage: "Hola, deseo información sobre un CATÁLOGO VIRTUAL para mi negocio"
